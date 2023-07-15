@@ -97,6 +97,24 @@ nav li{
 .skill p{
     font-size: 12px; 
 }
-.resume{
+.resume-continer{
     display: flex;
+    gap: 10px;
+    margin: 40px;    
+}
+.resume-info p{
+    color:  #757575;
+}
+.btn-parmanet{
+    background-color: #FD6E0A;
+    border: none;
+    padding: 8px 20px;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.download{
+    margin-left: -71px;
 }
